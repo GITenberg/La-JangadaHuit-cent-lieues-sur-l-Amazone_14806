@@ -1,0 +1,42 @@
+_repo: La-JangadaHuit-cent-lieues-sur-l-Amazone_14806
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14806'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Brazil -- Social life and customs -- Fiction'
+- !lcsh 'Rafts -- Fiction'
+- !lcsh 'Amazon River -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Peru -- Social life and customs -- Fiction'
+title: 'La Jangada
+
+  Huit cent lieues sur l''Amazone'
+url: http://www.gutenberg.org/ebooks/14806
